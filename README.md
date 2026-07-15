@@ -4,7 +4,6 @@
 This is a professional static website developed as part of a University Lab Activity. The project demonstrates the transition from a multi-page architecture to a modern **Single-Page Application (SPA)** design using HTML5, CSS3, and FontAwesome.
 
 ## 🚀 Live Demo
-*If you are using GitHub Pages, insert your link here.*
 
 ## 🛠️ Tech Stack
 - **HTML5**: Semantic structure.
